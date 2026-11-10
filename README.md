@@ -1,4 +1,4 @@
-# US E-commerce Customer Retention & Repeat Purchase Analysis
+<img width="1821" height="853" alt="image" src="https://github.com/user-attachments/assets/95f596db-6864-4b57-9198-bba716dfd79c" /># US E-commerce Customer Retention & Repeat Purchase Analysis
 Dataset: This project uses fictional US e-commerce data created for portfolio and educational purposes.
 ## Project Overview
 
@@ -30,19 +30,30 @@ A fictional US online retailer wants to understand why some customers purchase r
 - Review Electronics and Beauty return patterns at product level before making operational changes.
 - Compare customer acquisition costs and profitability before increasing spending on marketing channels or discounts.
 - Test retention campaigns against a control group to measure whether they increase repeat buying.
+## SQL Skills Demonstrated
 
+This project demonstrates my ability to use PostgreSQL to investigate customer behaviour, marketing performance and retention opportunities.
+
+- **Joins:** `INNER JOIN` and `LEFT JOIN` to connect customers, orders, products and order items.
+- **Aggregations:** `COUNT()`, `SUM()`, `MAX()`, `GROUP BY` and `HAVING` to calculate business metrics.
+- **Conditional analysis:** `CASE WHEN` and `FILTER` to segment customers and analyse order statuses.
+- **CTEs:** `WITH` to break complex business questions into manageable steps.
+- **Window functions:** `ROW_NUMBER()` and `COUNT() OVER (PARTITION BY ...)` to identify first purchases and repeat buying.
+- **Data handling:** `COALESCE()`, `NULLIF()` and `DISTINCT` to handle missing values, prevent division errors and avoid duplicate counts.
+- **Date analysis:** Date subtraction to measure customer inactivity.
+- **Business metrics:** Repeat purchase rates, customer conversion, gross order value, product return rates and customer inactivity.
 ## SQL Analyses
 
 | # | Analysis | SQL | Results |
 |---|---|---|---|
-| 01 | Customer acquisition | [Query](sql_queries/01_customer_acquisition.sql) | [CSV](results/01_customer_acquisition.csv) |
-| 02 | Order frequency | [Query](sql_queries/02_order_frequency.sql) | [CSV](results/02_order_frequency.csv) |
-| 03 | Order status and value | [Query](sql_queries/03_order_status_analysis.sql) | [CSV](results/03_order_status_analysis.csv) |
-| 04 | Successful repeat purchases | [Query](sql_queries/04_repeat_purchases.sql) | [CSV](results/04_repeat_purchases.csv) |
-| 05 | Marketing channels | [Query](sql_queries/05_marketing_channels.sql) | [CSV](results/05_marketing_channels.csv) |
-| 06 | Product category performance | [Query](sql_queries/06_product_categories.sql) | [CSV](results/06_product_categories.csv) |
-| 07 | Discounts and repeat purchasing | [Query](sql_queries/07_discounts_repeat_purchases.sql) | [CSV](results/07_discounts_repeat_purchases.csv) |
-| 08 | Customer inactivity | [Query](sql_queries/08_customer_inactivity.sql) | [CSV](results/08_customer_inactivity.csv) |
+| 01 | Customer acquisition | [Query](SQL%20queries/01_customer_acquisition.sql) | [CSV](Results/01_customer_acquisition.csv) |
+| 02 | Order frequency | [Query](SQL%20queries/02_order_frequency.sql) | [CSV](Results/02_order_frequency.csv) |
+| 03 | Order status and value | [Query](SQL%20queries/03_order_status_analysis.sql) | [CSV](Results/03_order_status_analysis.csv) |
+| 04 | Successful repeat purchases | [Query](SQL%20queries/04_repeat_purchases.sql) | [CSV](Results/04_repeat_purchases.csv) |
+| 05 | Marketing channels | [Query](SQL%20queries/05_marketing_channels.sql) | [CSV](Results/05_marketing_channels.csv) |
+| 06 | Product category performance | [Query](SQL%20queries/06_product_categories.sql) | [CSV](Results/06_product_categories.csv) |
+| 07 | Discounts and repeat purchasing | [Query](SQL%20queries/07_discounts_repeat_purchases.sql) | [CSV](Results/07_discounts_repeat_purchases.csv) |
+| 08 | Customer inactivity | [Query](SQL%20queries/08_customer_inactivity.sql) | [CSV](Results/08_customer_inactivity.csv) |
 
 **[Read the full executive summary, eight findings and recommendations](business_insights/key_findings.md).**
 
