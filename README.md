@@ -55,7 +55,7 @@ This project demonstrates my ability to use PostgreSQL to investigate customer b
 | 07 | Discounts and repeat purchasing | [Query](SQL%20queries/07_discounts_repeat_purchases.sql) | [CSV](Results/07_discounts_repeat_purchases.csv) |
 | 08 | Customer inactivity | [Query](SQL%20queries/08_customer_inactivity.sql) | [CSV](Results/08_customer_inactivity.csv) |
 
-**[Read the full executive summary, eight findings and recommendations](business_insights/key_findings.md).**
+**[Read the full executive summary, eight findings and recommendations](Business%20Insights/key_findings.md).**
 
 ## Data Limitations
 
