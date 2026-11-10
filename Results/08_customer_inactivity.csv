@@ -1,0 +1,242 @@
+"customer_id","full_name","acquisition_channel","total_purchases","last_purchase_date","days_since_last_purchase","activity_status"
+1113,Chloe Hill,Social Ads,1,2025-03-19,600,Inactive
+1207,Sofia Martinez,Organic Search,1,2025-04-08,580,Inactive
+1008,Julian Walker,Social Ads,1,2025-04-10,578,Inactive
+1261,Jackson Martin,Social Ads,1,2025-05-07,551,Inactive
+1005,Charlotte Lewis,Social Ads,1,2025-05-16,542,Inactive
+1165,Mason Hall,Organic Search,2,2025-05-26,532,Inactive
+1282,David Moore,Referral,1,2025-05-28,530,Inactive
+1014,Liam Young,Paid Search,1,2025-06-15,512,Inactive
+1061,Nora Mitchell,Paid Search,1,2025-06-21,506,Inactive
+1233,Lucas Green,Paid Search,2,2025-07-03,494,Inactive
+1153,Noah Robinson,Social Ads,1,2025-07-04,493,Inactive
+1291,Zoe Young,Paid Search,1,2025-08-17,449,Inactive
+1275,Emily Flores,Referral,1,2025-08-18,448,Inactive
+1049,Ava Lewis,Paid Search,1,2025-09-03,432,Inactive
+1064,Nathan Thomas,Social Ads,1,2025-09-22,413,Inactive
+1096,Nathan Perez,Paid Search,1,2025-10-12,393,Inactive
+1226,Lily Martinez,Social Ads,1,2025-10-14,391,Inactive
+1223,Noah Harris,Organic Search,1,2025-10-15,390,Inactive
+1065,Emily Sanchez,Paid Search,1,2025-10-18,387,Inactive
+1217,Noah Walker,Referral,2,2025-10-19,386,Inactive
+1248,Samuel Brown,Referral,1,2025-10-24,381,Inactive
+1183,Layla Rodriguez,Organic Search,1,2025-10-30,375,Inactive
+1179,Mia Wilson,Referral,1,2025-11-10,364,Inactive
+1192,Amelia Allen,Organic Search,2,2025-11-10,364,Inactive
+1001,Isabella Hall,Email,2,2025-11-16,358,Inactive
+1040,Sofia Hall,Organic Search,1,2025-11-22,352,Inactive
+1078,Henry Mitchell,Paid Search,1,2025-11-30,344,Inactive
+1259,Ethan Brown,Social Ads,2,2025-12-03,341,Inactive
+1107,Ella Moore,Paid Search,1,2025-12-08,336,Inactive
+1023,Evelyn Nguyen,Paid Search,3,2025-12-16,328,Inactive
+1193,Logan Williams,Organic Search,1,2025-12-17,327,Inactive
+1198,Alexander King,Email,1,2025-12-19,325,Inactive
+1208,Riley Miller,Paid Search,1,2025-12-21,323,Inactive
+1300,Ethan Miller,Organic Search,1,2025-12-21,323,Inactive
+1188,Jackson Mitchell,Social Ads,1,2025-12-22,322,Inactive
+1288,Riley Smith,Paid Search,1,2025-12-26,318,Inactive
+1114,Riley Mitchell,Social Ads,1,2025-12-28,316,Inactive
+1130,Evelyn Taylor,Email,1,2026-01-08,305,Inactive
+1144,Mason Walker,Social Ads,1,2026-01-08,305,Inactive
+1115,Benjamin Carter,Email,1,2026-01-09,304,Inactive
+1148,Lucas Brown,Referral,1,2026-01-14,299,Inactive
+1086,Sofia Scott,Paid Search,3,2026-01-15,298,Inactive
+1213,Luna Young,Email,3,2026-01-22,291,Inactive
+1090,Riley White,Paid Search,3,2026-01-23,290,Inactive
+1161,Aiden Gonzalez,Social Ads,2,2026-01-26,287,Inactive
+1077,Nathan Wilson,Referral,1,2026-01-27,286,Inactive
+1103,Jackson Williams,Organic Search,1,2026-01-27,286,Inactive
+1041,Grace Lee,Organic Search,2,2026-02-10,272,Inactive
+1151,Ava Young,Social Ads,2,2026-02-10,272,Inactive
+1269,Logan Garcia,Social Ads,3,2026-02-14,268,Inactive
+1095,Riley Thomas,Organic Search,1,2026-02-19,263,Inactive
+1297,Ella Lee,Paid Search,2,2026-02-23,259,Inactive
+1204,Mason Clark,Paid Search,1,2026-02-26,256,Inactive
+1036,Benjamin Sanchez,Paid Search,1,2026-03-02,252,Inactive
+1171,Logan Wilson,Referral,1,2026-03-10,244,Inactive
+1053,Aria Lee,Paid Search,1,2026-03-16,238,Inactive
+1185,Mia Walker,Paid Search,1,2026-03-20,234,Inactive
+1135,Evelyn Wilson,Referral,4,2026-03-22,232,Inactive
+1029,Logan Miller,Paid Search,1,2026-03-23,231,Inactive
+1046,Victoria Green,Email,1,2026-03-24,230,Inactive
+1290,Emma Robinson,Social Ads,2,2026-03-27,227,Inactive
+1099,James Davis,Paid Search,3,2026-03-29,225,Inactive
+1118,Abigail Jones,Social Ads,1,2026-03-29,225,Inactive
+1043,Elijah Sanchez,Paid Search,2,2026-04-01,222,Inactive
+1174,Isabella Green,Paid Search,1,2026-04-01,222,Inactive
+1227,Leo Young,Social Ads,1,2026-04-05,218,Inactive
+1070,Charlotte Baker,Organic Search,1,2026-04-06,217,Inactive
+1247,Alexander Nelson,Organic Search,2,2026-04-08,215,Inactive
+1295,Emma Perez,Social Ads,1,2026-04-08,215,Inactive
+1009,Abigail Lee,Paid Search,3,2026-04-13,210,Inactive
+1240,David Rivera,Email,2,2026-04-14,209,Inactive
+1026,Samuel Lewis,Referral,1,2026-04-17,206,Inactive
+1216,Amelia Wilson,Paid Search,1,2026-04-19,204,Inactive
+1120,Victoria Campbell,Organic Search,2,2026-04-20,203,Inactive
+1270,David Johnson,Paid Search,2,2026-04-21,202,Inactive
+1184,Elijah Allen,Social Ads,1,2026-04-23,200,Inactive
+1071,Aria Martin,Paid Search,1,2026-04-24,199,Inactive
+1021,Layla Wright,Social Ads,2,2026-04-27,196,Inactive
+1027,Riley Thompson,Paid Search,3,2026-04-28,195,Inactive
+1004,Riley Adams,Paid Search,3,2026-05-01,192,Inactive
+1032,Michael Brown,Paid Search,1,2026-05-02,191,Inactive
+1167,Ethan Hall,Paid Search,2,2026-05-04,189,Inactive
+1292,Evelyn Wilson,Social Ads,1,2026-05-04,189,Inactive
+1058,James Williams,Social Ads,3,2026-05-05,188,Inactive
+1102,Zoe Brown,Paid Search,2,2026-05-05,188,Inactive
+1059,Lily Johnson,Social Ads,2,2026-05-06,187,Inactive
+1124,Elijah Robinson,Social Ads,3,2026-05-07,186,Inactive
+1173,Aria Robinson,Organic Search,1,2026-05-09,184,Inactive
+1140,Charlotte Carter,Paid Search,1,2026-05-10,183,Inactive
+1191,Gabriel Torres,Social Ads,2,2026-05-14,179,Inactive
+1197,Olivia Baker,Paid Search,1,2026-05-14,179,Inactive
+1047,Abigail Campbell,Paid Search,1,2026-05-19,174,Inactive
+1239,Emily Harris,Organic Search,1,2026-05-20,173,Inactive
+1235,Ava Martinez,Social Ads,3,2026-05-21,172,Inactive
+1119,Riley Clark,Paid Search,3,2026-05-22,171,Inactive
+1242,Isabella Adams,Paid Search,3,2026-05-22,171,Inactive
+1274,Gabriel Martinez,Referral,5,2026-05-22,171,Inactive
+1245,Gabriel Baker,Referral,2,2026-05-26,167,Inactive
+1031,Gabriel Green,Social Ads,2,2026-05-30,163,Inactive
+1177,Ella Lee,Organic Search,2,2026-06-04,158,Inactive
+1020,Nora Williams,Email,7,2026-06-05,157,Inactive
+1048,Amelia Jones,Organic Search,2,2026-06-05,157,Inactive
+1250,Emily Jones,Social Ads,2,2026-06-05,157,Inactive
+1294,Aria Thompson,Email,1,2026-06-07,155,Inactive
+1201,Lily Young,Email,4,2026-06-10,152,Inactive
+1149,Riley Williams,Social Ads,1,2026-06-13,149,Inactive
+1050,Noah Thomas,Referral,2,2026-06-17,145,Inactive
+1190,Nathan Gonzalez,Social Ads,3,2026-06-17,145,Inactive
+1010,Lucas Hernandez,Organic Search,1,2026-06-20,142,Inactive
+1264,Mason Carter,Social Ads,1,2026-06-20,142,Inactive
+1082,Nora Wright,Social Ads,1,2026-06-21,141,Inactive
+1052,Madison Taylor,Email,2,2026-06-24,138,Inactive
+1121,Michael Hernandez,Organic Search,4,2026-06-27,135,Inactive
+1271,Chloe Adams,Social Ads,1,2026-06-28,134,Inactive
+1076,Aiden Sanchez,Referral,1,2026-07-02,130,Inactive
+1257,Isabella Sanchez,Email,3,2026-07-02,130,Inactive
+1097,Madison Gonzalez,Referral,1,2026-07-03,129,Inactive
+1142,Ethan Wilson,Paid Search,3,2026-07-03,129,Inactive
+1260,Samuel Baker,Social Ads,1,2026-07-03,129,Inactive
+1236,Ava Carter,Social Ads,2,2026-07-04,128,Inactive
+1220,Olivia Wilson,Paid Search,3,2026-07-05,127,Inactive
+1034,Amelia King,Paid Search,1,2026-07-08,124,Inactive
+1133,Victoria Torres,Email,2,2026-07-08,124,Inactive
+1286,Michael Anderson,Paid Search,2,2026-07-10,122,Inactive
+1019,Grace Scott,Social Ads,2,2026-07-11,121,Inactive
+1072,Alexander Campbell,Email,1,2026-07-12,120,Inactive
+1283,Daniel Hernandez,Paid Search,3,2026-07-12,120,Inactive
+1132,Chloe Hernandez,Social Ads,2,2026-07-13,119,Inactive
+1136,Mason Hill,Paid Search,4,2026-07-13,119,Inactive
+1205,Aria Martinez,Paid Search,1,2026-07-14,118,Inactive
+1035,Liam Sanchez,Social Ads,2,2026-07-16,116,Inactive
+1109,Elijah Martin,Social Ads,3,2026-07-18,114,Inactive
+1244,Scarlett Adams,Organic Search,5,2026-07-19,113,Inactive
+1013,Emma Allen,Social Ads,6,2026-07-20,112,Inactive
+1085,Victoria Robinson,Social Ads,2,2026-07-20,112,Inactive
+1068,Isabella Nguyen,Paid Search,4,2026-07-21,111,Inactive
+1105,Mia Lopez,Paid Search,2,2026-07-21,111,Inactive
+1116,Scarlett Robinson,Email,3,2026-07-21,111,Inactive
+1287,Lily White,Organic Search,2,2026-07-21,111,Inactive
+1126,Aria Taylor,Organic Search,1,2026-07-23,109,Inactive
+1228,Isabella Martinez,Social Ads,1,2026-07-23,109,Inactive
+1293,Madison White,Email,6,2026-07-23,109,Inactive
+1022,Julian Carter,Referral,1,2026-07-25,107,Inactive
+1087,Aria Perez,Paid Search,3,2026-07-25,107,Inactive
+1128,Isabella Martin,Social Ads,3,2026-07-25,107,Inactive
+1266,Emily Baker,Social Ads,3,2026-07-25,107,Inactive
+1237,Luna Jackson,Paid Search,2,2026-07-26,106,Inactive
+1289,Ethan Brown,Organic Search,5,2026-07-27,105,Inactive
+1170,Jacob Martinez,Referral,5,2026-07-29,103,Inactive
+1112,Elijah Rodriguez,Email,2,2026-07-30,102,Inactive
+1298,Sofia Smith,Organic Search,6,2026-08-01,100,Inactive
+1137,Madison Wright,Organic Search,1,2026-08-02,99,Inactive
+1176,Ava Taylor,Email,1,2026-08-02,99,Inactive
+1092,Chloe Martin,Referral,1,2026-08-03,98,Inactive
+1251,Riley Baker,Paid Search,3,2026-08-04,97,Inactive
+1141,Julian Moore,Organic Search,1,2026-08-05,96,Inactive
+1180,Mia Baker,Paid Search,3,2026-08-05,96,Inactive
+1253,Madison Robinson,Organic Search,3,2026-08-05,96,Inactive
+1139,Lily Davis,Social Ads,4,2026-08-07,94,Inactive
+1108,Zoe Allen,Referral,2,2026-08-08,93,Inactive
+1243,Madison Johnson,Organic Search,1,2026-08-08,93,Inactive
+1057,Victoria Perez,Social Ads,2,2026-08-09,92,Inactive
+1181,Sofia Rivera,Referral,2,2026-08-09,92,Inactive
+1285,Lucas Nelson,Paid Search,6,2026-08-10,91,Inactive
+1206,Michael Jones,Paid Search,2,2026-08-11,90,Inactive
+1060,Ella Allen,Referral,2,2026-08-12,89,Inactive
+1194,Zoe Torres,Organic Search,1,2026-08-12,89,Inactive
+1224,Hannah Clark,Organic Search,3,2026-08-13,88,Inactive
+1003,Sophia Clark,Organic Search,1,2026-08-14,87,Inactive
+1011,Olivia Martin,Paid Search,1,2026-08-14,87,Inactive
+1080,Emma Williams,Paid Search,3,2026-08-14,87,Inactive
+1081,Michael Martinez,Paid Search,4,2026-08-14,87,Inactive
+1134,Harper Anderson,Social Ads,1,2026-08-14,87,Inactive
+1122,Ella Martinez,Paid Search,3,2026-08-15,86,Inactive
+1062,Abigail White,Paid Search,5,2026-08-16,85,Inactive
+1138,Logan King,Paid Search,2,2026-08-19,82,Inactive
+1169,Scarlett Lopez,Social Ads,3,2026-08-19,82,Inactive
+1002,Mason Flores,Organic Search,3,2026-08-20,81,Inactive
+1211,Hannah Rodriguez,Organic Search,2,2026-08-20,81,Inactive
+1263,Abigail Jones,Referral,2,2026-08-21,80,Inactive
+1055,Benjamin Williams,Paid Search,2,2026-08-22,79,Inactive
+1067,James Adams,Organic Search,2,2026-08-22,79,Inactive
+1154,Henry Flores,Referral,3,2026-08-22,79,Inactive
+1246,Victoria White,Paid Search,1,2026-08-22,79,Inactive
+1255,Noah Walker,Referral,1,2026-08-22,79,Inactive
+1267,Liam Walker,Email,1,2026-08-22,79,Inactive
+1006,Chloe Hernandez,Email,1,2026-08-23,78,Inactive
+1037,Noah Martinez,Social Ads,1,2026-08-23,78,Inactive
+1074,Elijah Thompson,Organic Search,1,2026-08-24,77,Inactive
+1084,Benjamin Green,Email,2,2026-08-24,77,Inactive
+1110,Nora Robinson,Paid Search,1,2026-08-24,77,Inactive
+1129,Abigail Mitchell,Organic Search,2,2026-08-24,77,Inactive
+1159,Aiden Hall,Social Ads,1,2026-08-25,76,Inactive
+1256,Lily Lopez,Organic Search,4,2026-08-25,76,Inactive
+1111,Ava Green,Email,2,2026-08-27,74,Inactive
+1158,Isabella Flores,Social Ads,2,2026-08-27,74,Inactive
+1262,Nathan Torres,Paid Search,2,2026-08-27,74,Inactive
+1163,Nora Wilson,Paid Search,2,2026-08-28,73,Inactive
+1215,Riley Wright,Social Ads,5,2026-08-28,73,Inactive
+1296,Hannah Williams,Referral,1,2026-08-30,71,Inactive
+1045,Luna Garcia,Organic Search,2,2026-08-31,70,Inactive
+1093,Luna Rodriguez,Social Ads,3,2026-08-31,70,Inactive
+1131,Benjamin Gonzalez,Paid Search,1,2026-08-31,70,Inactive
+1030,Mia Johnson,Paid Search,1,2026-09-01,69,Inactive
+1125,Samuel Rivera,Paid Search,1,2026-09-01,69,Inactive
+1018,Ethan Allen,Organic Search,4,2026-09-02,68,Inactive
+1229,Sophia Johnson,Referral,2,2026-09-04,66,Inactive
+1199,Ethan Gonzalez,Paid Search,3,2026-09-06,64,Inactive
+1094,Noah Moore,Social Ads,3,2026-09-07,63,Inactive
+1276,Amelia Adams,Paid Search,1,2026-09-07,63,Inactive
+1101,Amelia Lopez,Organic Search,3,2026-09-08,62,Inactive
+1178,Sofia Johnson,Social Ads,3,2026-09-08,62,Inactive
+1038,Samuel Scott,Referral,5,2026-09-09,61,Inactive
+1195,Noah Sanchez,Referral,2,2026-09-09,61,Inactive
+1265,Elijah Young,Organic Search,4,2026-09-09,61,Inactive
+1075,Hannah Walker,Organic Search,3,2026-09-11,59,At Risk
+1230,Emma Torres,Organic Search,3,2026-09-11,59,At Risk
+1168,Jackson Sanchez,Paid Search,2,2026-09-12,58,At Risk
+1238,Logan Davis,Organic Search,1,2026-09-12,58,At Risk
+1273,Mia Hill,Referral,6,2026-09-12,58,At Risk
+1157,Mason Green,Email,3,2026-09-13,57,At Risk
+1155,Luna Flores,Social Ads,5,2026-09-14,56,At Risk
+1280,Samuel Adams,Organic Search,3,2026-09-14,56,At Risk
+1189,Layla Lee,Organic Search,2,2026-09-16,54,At Risk
+1252,Sophia Thompson,Email,5,2026-09-16,54,At Risk
+1104,Michael Walker,Paid Search,1,2026-09-17,53,At Risk
+1202,Elijah Allen,Paid Search,1,2026-09-17,53,At Risk
+1279,Henry Clark,Referral,1,2026-09-18,52,At Risk
+1106,Henry Lee,Paid Search,1,2026-09-19,51,At Risk
+1187,Logan Torres,Referral,2,2026-09-19,51,At Risk
+1212,Ava Wilson,Social Ads,2,2026-09-19,51,At Risk
+1150,Ava Jackson,Paid Search,1,2026-09-20,50,At Risk
+1063,Ethan Carter,Email,5,2026-09-22,48,At Risk
+1024,David Baker,Email,3,2026-09-23,47,At Risk
+1203,Michael Hill,Referral,3,2026-09-23,47,At Risk
+1268,Aria Lee,Paid Search,4,2026-09-23,47,At Risk
+1025,Emma Young,Social Ads,2,2026-09-28,42,At Risk
+1054,Isabella Lewis,Paid Search,4,2026-09-28,42,At Risk
+1241,Hannah Lewis,Paid Search,2,2026-09-29,41,At Risk
+1016,David Hernandez,Paid Search,3,2026-09-30,40,At Risk
+1231,Julian Hall,Organic Search,5,2026-09-30,40,At Risk
