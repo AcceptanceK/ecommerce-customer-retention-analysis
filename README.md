@@ -1,5 +1,5 @@
 # US E-commerce Customer Retention & Repeat Purchase Analysis
-
+Dataset: This project uses fictional US e-commerce data created for portfolio and educational purposes.
 ## Project Overview
 
 A fictional US online retailer wants to understand why some customers purchase repeatedly while others never complete an order or stop returning. This project uses SQL to examine customer acquisition, order outcomes, repeat purchases, marketing channels, product categories, discounts and inactivity.
